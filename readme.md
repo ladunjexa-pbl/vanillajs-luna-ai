@@ -72,7 +72,7 @@
 ## :star2: About the Project
 
 <div align="center"> 
-  <img src="readme_assets/lunaai-mockup.png" height="auto" width="75%" />
+  <img src="readme_assets/lunaai-mockup.png" height="auto" width="85%" />
 </div>
 <br />
 
