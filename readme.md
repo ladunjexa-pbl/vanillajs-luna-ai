@@ -33,7 +33,7 @@
 </p>
    
  <h4>
-    <a href="https://github.com/ladunjexa/LunaAI-Chat-GPT/">View Demo</a>
+    <a href="https://luna-ai-gpt-chat.vercel.app/">View Demo</a>
   <span> · </span>
     <a href="https://github.com/ladunjexa/LunaAI-Chat-GPT">Documentation</a>
   <span> · </span>
